@@ -23,8 +23,8 @@ Armed with lost tech, arcane science and unstable magic, you must stabilise the 
 ## Mod Highlights
 | **Tech** | **Magic** | **Exploration** | **Performance** |
 |---|---|---|---|
-| Mekanism v10 | Ars Nouveau | Biomes O’ Plenty | Canary |
-| Create 0.5 | Blood Magic | The Graveyard | Starlight |
+| Mekanism | Ars Nouveau | Biomes O’ Plenty | Canary |
+| Create  | Blood Magic | The Graveyard | Starlight |
 | Thermal | Occultism | Twilight Forest | FerriteCore |
 | AE2 | Botania | Blue Skies | Chunk-Pregenerator |
 
